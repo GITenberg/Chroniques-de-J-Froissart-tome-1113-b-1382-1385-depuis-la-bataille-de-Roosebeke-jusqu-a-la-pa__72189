@@ -10,6 +10,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Gaston_Raynaud
     - https://fr.wikipedia.org/wiki/Gaston_Raynaud
+covers:
+- cover_type: archival
+  image_path: 72189-h/images/cover.jpg
 creator:
   author:
     agent_name: Froissart, Jean
@@ -24,6 +27,8 @@ creator:
     - https://en.wikipedia.org/wiki/Jean_Froissart
     - https://fr.wikipedia.org/wiki/Jean_Froissart
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72189#Chroniques-de-J-Froissart-tome-1113-b-1382-1385-depuis-la-bataille-de-Roosebeke-jusqu-a-la-pa_
 gutenberg_issued: '2023-11-21'
 identifiers:
   gutenberg: '72189'
